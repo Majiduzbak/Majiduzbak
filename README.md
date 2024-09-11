@@ -11,8 +11,11 @@ This project was a collaboration with two other peers, Which I will link to thei
 (With integrating, observational, simulations and machine learning methods)
 
 In more details, please visit: https://github.com/Majiduzbak/MSc_project.git
-  
 
+
+
+"Currently I am lookin for jobs both inside and outside the Academia/industries"
+Please do not hesitate to contact me.
 
 <!--
 **Majiduzbak/Majiduzbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
