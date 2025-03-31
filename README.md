@@ -14,7 +14,7 @@ In more details, please visit: https://github.com/Majiduzbak/MSc_project.git
 
 
 
-"Currently I am lookin for jobs both inside and outside the Academia/industries"
+"Currently I am looking for jobs both inside and outside the Academia/industries"
 Please do not hesitate to contact me.
 
 <!--
